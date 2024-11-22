@@ -1,0 +1,4847 @@
+[{
+  "_id": {
+    "$oid": "66e7d6698688dc5a22281bb1"
+  },
+  "title": "Plans & Pricing Inquiry",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6688688dc5a22281bb0",
+      "timestamp": 1726469690,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7688688dc4a0b0a8cdf",
+      "timestamp": 1726469946,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d76d8688dc4a0b0a8ceb",
+      "timestamp": 1726469949,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce88688dc4f4f7e2ddc",
+      "timestamp": 1726553255,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6fd8688dc175b7caff1",
+      "timestamp": 1726730720,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66eceff88688dc73e54f35ad",
+      "timestamp": 1726773482,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88fd8688dc477116a367",
+      "timestamp": 1726920141,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8e48688dc4974300ab5",
+      "timestamp": 1726974691,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8e78688dc4974300abb",
+      "timestamp": 1726974282,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8fa8688dc4974300af0",
+      "timestamp": 1726975377,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8fd8688dc4974300af6",
+      "timestamp": 1726975252,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d968688dc7d2229497b",
+      "timestamp": 1727133739,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38db48688dc7d222949a7",
+      "timestamp": 1727235814,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38dbf8688dc7d222949c5",
+      "timestamp": 1727185872,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4dee58688dc66b36a302c",
+      "timestamp": 1727311311,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4defc8688dc66b36a304f",
+      "timestamp": 1726777923,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f608688dc5dc04b29aa",
+      "timestamp": 1727409894,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f62f7b8688dc5dc04b29d5",
+      "timestamp": 1727407692,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f62f8c8688dc5dc04b29ea",
+      "timestamp": 1723009045,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f938688dc5dc04b29fd",
+      "timestamp": 1727337637,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a65f8688dc5bd601b6d1",
+      "timestamp": 1727489795,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6608688dc5bd601b6d4",
+      "timestamp": 1727280745,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a6798688dc5bd601b714",
+      "timestamp": 1727497251,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7648688dc3fcc1c318b",
+      "timestamp": 1727489795,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7658688dc3fcc1c318e",
+      "timestamp": 1727280745,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7838688dc3fcc1c31cc",
+      "timestamp": 1727497251,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7948688dc3fcc1c31f4",
+      "timestamp": 1727394419,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac868688dc5bd8499f18",
+      "timestamp": 1727502611,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac878688dc5bd8499f1c",
+      "timestamp": 1727495166,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac8e8688dc5bd8499f37",
+      "timestamp": 1727489795,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac8f8688dc5bd8499f3a",
+      "timestamp": 1727280745,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac988688dc5bd8499f51",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7ad668688dc5bd8499f7a",
+      "timestamp": 1727502611,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad678688dc5bd8499f7e",
+      "timestamp": 1727495166,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad6d8688dc5bd8499f9a",
+      "timestamp": 1727489795,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad6e8688dc5bd8499f9d",
+      "timestamp": 1727280745,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad788688dc5bd8499fb4",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7b7538688dc5bd8499fd2",
+      "timestamp": 1727508518,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7b7548688dc5bd8499fd5",
+      "timestamp": 1727495166,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b75f8688dc5bd601b73a",
+      "timestamp": 1727508518,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7b7608688dc5bd601b73d",
+      "timestamp": 1727495166,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7b88688dc3fcf5bf1bb",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7d08688dc3fcf5bf1c7",
+      "timestamp": 1726674299,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7e7da8688dc3fcf5bf1d3",
+      "timestamp": 1727508518,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7e7dd8688dc3fcf5bf1d9",
+      "timestamp": 1727495166,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f916d68688dc5d8b1f7a7f",
+      "timestamp": 1727577332,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916dc8688dc5d8b1f7a8d",
+      "timestamp": 1727459567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f98688dc5d8b1f7abd",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f917158688dc5d8b1f7ae1",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b7b8688dc2201548435",
+      "timestamp": 1727675564,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1eb88688dc095e3b2e9a",
+      "timestamp": 1727757609,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f958688dc6d6e6e759f",
+      "timestamp": 1727965478,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021f9e8688dc6d6e6e75b3",
+      "timestamp": 1727956005,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc38688dc64473400b9",
+      "timestamp": 1728668960,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2cdd8688dc64473400d8",
+      "timestamp": 1728639922,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce78688dc64473400e8",
+      "timestamp": 1728529223,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469737,
+  "updatedat": 1726469737,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d66c8688dc5a22281bbe"
+  },
+  "title": "Account and Billing Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d66b8688dc5a22281bbd",
+      "timestamp": 1726469693,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d76c8688dc4a0b0a8ce8",
+      "timestamp": 1726469948,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7868688dc4a0b0a8d1c",
+      "timestamp": 1726469968,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d78a8688dc4a0b0a8d22",
+      "timestamp": 1726469970,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d78e8688dc4a0b0a8d2d",
+      "timestamp": 1726469977,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ca78688dc4f4f7e2d6a",
+      "timestamp": 1726553207,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cbd8688dc4f4f7e2d96",
+      "timestamp": 1726553224,
+      "sentiment": "",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cc58688dc4f4f7e2d9c",
+      "timestamp": 1726553226,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cc78688dc4f4f7e2da0",
+      "timestamp": 1726553228,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cda8688dc4f4f7e2dbc",
+      "timestamp": 1726553240,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cdd8688dc4f4f7e2dc3",
+      "timestamp": 1726553242,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce38688dc4f4f7e2dcf",
+      "timestamp": 1726553246,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55e68688dc2b6f12a24e",
+      "timestamp": 1726633398,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55ee8688dc2b6f12a25e",
+      "timestamp": 1726633406,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55fc8688dc2b6f12a276",
+      "timestamp": 1726633413,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55fd8688dc2b6f12a278",
+      "timestamp": 1726633414,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56018688dc2b6f12a27e",
+      "timestamp": 1726633416,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58068688dc2b75368923",
+      "timestamp": 1726633944,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58118688dc2b7536893b",
+      "timestamp": 1726633952,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6e78688dc175b7cafcd",
+      "timestamp": 1726569941,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd6f48688dc175b7cafe4",
+      "timestamp": 1726656805,
+      "integrationid": 9,
+      "sentiment": "Super Angry"
+    },
+    {
+      "id": "66ebd7008688dc175b7caff4",
+      "timestamp": 1726540850,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecefef8688dc73e54f359e",
+      "timestamp": 1726803337,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66eceffa8688dc73e54f35b0",
+      "timestamp": 1726690538,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0108688dc73e54f35d9",
+      "timestamp": 1726584533,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf02d8688dc73e54f3603",
+      "timestamp": 1726802813,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef89038688dc477116a37b",
+      "timestamp": 1726966968,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d8e8688dc7d22294968",
+      "timestamp": 1727236955,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d8f8688dc7d2229496a",
+      "timestamp": 1727236956,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d908688dc7d2229496d",
+      "timestamp": 1727236954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d918688dc7d22294970",
+      "timestamp": 1727236955,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d938688dc7d22294975",
+      "timestamp": 1727133819,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d9a8688dc7d22294981",
+      "timestamp": 1727141803,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d9d8688dc7d22294987",
+      "timestamp": 1726621732,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38da38688dc7d2229498d",
+      "timestamp": 1727232352,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38da48688dc7d2229498f",
+      "timestamp": 1726777817,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38da58688dc7d22294992",
+      "timestamp": 1726787850,
+      "integrationid": 9,
+      "sentiment": "Angry"
+    },
+    {
+      "id": "66f38da98688dc7d22294999",
+      "timestamp": 1726569941,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38db98688dc7d222949b1",
+      "timestamp": 1727235709,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38dba8688dc7d222949b4",
+      "timestamp": 1727169411,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38dbd8688dc7d222949ba",
+      "timestamp": 1727220279,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4ded48688dc66b36a3012",
+      "timestamp": 1727316675,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deda8688dc66b36a301b",
+      "timestamp": 1727141987,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dee48688dc66b36a3029",
+      "timestamp": 1727322260,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dee78688dc66b36a302f",
+      "timestamp": 1727318340,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4def48688dc66b36a3046",
+      "timestamp": 1727111560,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4df058688dc66b36a3058",
+      "timestamp": 1726787850,
+      "integrationid": 9,
+      "sentiment": "Angry"
+    },
+    {
+      "id": "66f62f6f8688dc5dc04b29c2",
+      "timestamp": 1727409560,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f62f808688dc5dc04b29db",
+      "timestamp": 1727148339,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f878688dc5dc04b29e8",
+      "timestamp": 1727406702,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f918688dc5dc04b29f6",
+      "timestamp": 1727327270,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a66b8688dc5bd601b6ef",
+      "timestamp": 1727500212,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6768688dc5bd601b70b",
+      "timestamp": 1727490815,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6818688dc5bd601b72a",
+      "timestamp": 1727440889,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7788688dc3fcc1c31bb",
+      "timestamp": 1727499997,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a78b8688dc3fcc1c31e2",
+      "timestamp": 1727440889,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac9b8688dc5bd8499f55",
+      "timestamp": 1727500212,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7aca18688dc5bd8499f65",
+      "timestamp": 1727499997,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad628688dc5bd8499f71",
+      "timestamp": 1727173794,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b7508688dc5bd8499fcf",
+      "timestamp": 1727173794,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b75d8688dc5bd601b737",
+      "timestamp": 1727173794,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7db8688dc3fcf5bf1d6",
+      "timestamp": 1727173794,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d38688dc5d8b1f7a7b",
+      "timestamp": 1727460278,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d98688dc5d8b1f7a89",
+      "timestamp": 1727457569,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916dc8688dc5d8b1f7a8d",
+      "timestamp": 1727459567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916e28688dc5d8b1f7a99",
+      "timestamp": 1727300431,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ee8688dc5d8b1f7aa8",
+      "timestamp": 1727347208,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f68688dc5d8b1f7ab7",
+      "timestamp": 1725478183,
+      "integrationid": 9,
+      "sentiment": "    Frustrated"
+    },
+    {
+      "id": "66f916f98688dc5d8b1f7abd",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f917008688dc5d8b1f7ace",
+      "timestamp": 1727554887,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f917158688dc5d8b1f7ae1",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b638688dc2201548419",
+      "timestamp": 1726787623,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ec38688dc095e3b2eaf",
+      "timestamp": 1727763309,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecc8688dc095e3b2ebc",
+      "timestamp": 1727365821,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618618688dc1616277806",
+      "timestamp": 1724840742,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618668688dc1616277809",
+      "timestamp": 1728446902,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6706186a8688dc161627780f",
+      "timestamp": 1727705524,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618708688dc161627781b",
+      "timestamp": 1728431825,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b378688dc549d0238b5",
+      "timestamp": 1728542296,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b528688dc549d0238ed",
+      "timestamp": 1728583956,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b588688dc549d0238fa",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c368688dc64454eaf60",
+      "timestamp": 1728542296,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c528688dc64454eaf97",
+      "timestamp": 1728583956,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c578688dc64454eafa3",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc98688dc64473400bf",
+      "timestamp": 1728542296,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce18688dc64473400de",
+      "timestamp": 1728583956,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce48688dc64473400e5",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c219a8688dc2702679223",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c23798688dc62f026f187",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469740,
+  "updatedat": 1728848766,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d66e8688dc5a22281bcb"
+  },
+  "title": "Remove contact from Do Not Message (DNM) list",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d66e8688dc5a22281bca",
+      "timestamp": 1726469697,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d76e8688dc4a0b0a8cef",
+      "timestamp": 1726469951,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66f90cff8688dc5db736d0f3",
+      "timestamp": 1727575978,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d08688dc5d8b1f7a77",
+      "timestamp": 1727575978,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469742,
+  "updatedat": 1726469742,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d6768688dc5a22281bdb"
+  },
+  "title": "JustCall AI Voice Agent Beta Inquiry and Activation",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6748688dc5a22281bda",
+      "timestamp": 1726469702,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7758688dc4a0b0a8cfa",
+      "timestamp": 1726469956,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cae8688dc4f4f7e2d79",
+      "timestamp": 1726553212,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ccb8688dc4f4f7e2da6",
+      "timestamp": 1726553230,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce08688dc4f4f7e2dc8",
+      "timestamp": 1726553244,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66f4deec8688dc66b36a303b",
+      "timestamp": 1727169411,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6628688dc5bd601b6d8",
+      "timestamp": 1727488672,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7678688dc3fcc1c3192",
+      "timestamp": 1727488672,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac918688dc5bd8499f3e",
+      "timestamp": 1727488672,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad708688dc5bd8499fa1",
+      "timestamp": 1727488672,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b7b8688dc2201548435",
+      "timestamp": 1727675564,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1726469750,
+  "updatedat": 1726469750,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d6778688dc5a22281be3"
+  },
+  "title": "Account Verification Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6778688dc5a22281be2",
+      "timestamp": 1726469704,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7678688dc4a0b0a8cdb",
+      "timestamp": 1726469944,
+      "sentiment": "Happy",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d76f8688dc4a0b0a8cf1",
+      "timestamp": 1726469953,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7728688dc4a0b0a8cf4",
+      "timestamp": 1726469954,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7738688dc4a0b0a8cf7",
+      "timestamp": 1726469955,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7798688dc4a0b0a8d00",
+      "timestamp": 1726469958,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7838688dc4a0b0a8d13",
+      "timestamp": 1726469965,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7848688dc4a0b0a8d16",
+      "timestamp": 1726469966,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d78f8688dc4a0b0a8d30",
+      "timestamp": 1726469979,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91caf8688dc4f4f7e2d7c",
+      "timestamp": 1726553213,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cb08688dc4f4f7e2d80",
+      "timestamp": 1726553215,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cb38688dc4f4f7e2d83",
+      "timestamp": 1726553216,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cd68688dc4f4f7e2dae",
+      "timestamp": 1726553233,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cde8688dc4f4f7e2dc6",
+      "timestamp": 1726553243,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55f18688dc2b6f12a261",
+      "timestamp": 1726633406,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56028688dc2b6f12a280",
+      "timestamp": 1726633417,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56168688dc2b6f12a2ad",
+      "timestamp": 1726633437,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58148688dc2b75368943",
+      "timestamp": 1726633955,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea581f8688dc2b7536895f",
+      "timestamp": 1726633964,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6ee8688dc175b7cafde",
+      "timestamp": 1726563896,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd6ef8688dc175b7cafe1",
+      "timestamp": 1725874769,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd70e8688dc175b7cb015",
+      "timestamp": 1726686705,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd7148688dc175b7cb01c",
+      "timestamp": 1726714953,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf01f8688dc73e54f35e8",
+      "timestamp": 1726521231,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0258688dc73e54f35f1",
+      "timestamp": 1726457331,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88fc8688dc477116a35e",
+      "timestamp": 1726230949,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88fe8688dc477116a36a",
+      "timestamp": 1726970763,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8d68688dc4974300a95",
+      "timestamp": 1726932525,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8dc8688dc4974300aa3",
+      "timestamp": 1726974621,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8dd8688dc4974300aa6",
+      "timestamp": 1726983526,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8de8688dc4974300aa9",
+      "timestamp": 1726230949,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8e38688dc4974300ab2",
+      "timestamp": 1726942043,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8ea8688dc4974300ac1",
+      "timestamp": 1726979537,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8f08688dc4974300ad1",
+      "timestamp": 1726970763,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8f48688dc4974300ae5",
+      "timestamp": 1726930356,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8f78688dc4974300ae8",
+      "timestamp": 1726927376,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8f88688dc4974300aeb",
+      "timestamp": 1726840049,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d928688dc7d22294973",
+      "timestamp": 1727235339,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38dae8688dc7d2229499c",
+      "timestamp": 1726804881,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dec58688dc66b36a2ff3",
+      "timestamp": 1727254744,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4dec78688dc66b36a2ff6",
+      "timestamp": 1727322145,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4ded88688dc66b36a3015",
+      "timestamp": 1727218920,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dedf8688dc66b36a301e",
+      "timestamp": 1727291549,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dee38688dc66b36a3026",
+      "timestamp": 1727321972,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dee98688dc66b36a3032",
+      "timestamp": 1727321829,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4deea8688dc66b36a3038",
+      "timestamp": 1727150099,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6668688dc5bd601b6e1",
+      "timestamp": 1727437886,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a6678688dc5bd601b6e7",
+      "timestamp": 1727363935,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a6728688dc5bd601b703",
+      "timestamp": 1727078020,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a67a8688dc5bd601b71a",
+      "timestamp": 1727496039,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a76b8688dc3fcc1c319c",
+      "timestamp": 1727437886,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7788688dc3fcc1c31bd",
+      "timestamp": 1727078020,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7848688dc3fcc1c31d2",
+      "timestamp": 1727496039,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7908688dc3fcc1c31eb",
+      "timestamp": 1727448688,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac858688dc5bd8499f15",
+      "timestamp": 1727504391,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac8c8688dc5bd8499f31",
+      "timestamp": 1727492996,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac948688dc5bd8499f47",
+      "timestamp": 1727437886,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7aca28688dc5bd8499f67",
+      "timestamp": 1727078020,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad658688dc5bd8499f77",
+      "timestamp": 1727504391,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad6b8688dc5bd8499f94",
+      "timestamp": 1727492996,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad758688dc5bd8499faa",
+      "timestamp": 1727437886,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad838688dc5bd8499fc8",
+      "timestamp": 1727499997,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad848688dc5bd8499fcb",
+      "timestamp": 1727078020,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b75b8688dc5bd8499fde",
+      "timestamp": 1727437886,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7d48688dc3fcf5bf1cd",
+      "timestamp": 1727078020,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d38688dc5d8b1f7a7b",
+      "timestamp": 1727460278,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d98688dc5d8b1f7a89",
+      "timestamp": 1727457569,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916de8688dc5d8b1f7a92",
+      "timestamp": 1727460924,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f916e28688dc5d8b1f7a99",
+      "timestamp": 1727300431,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ee8688dc5d8b1f7aa8",
+      "timestamp": 1727347208,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f68688dc5d8b1f7ab7",
+      "timestamp": 1725478183,
+      "integrationid": 9,
+      "sentiment": "    Frustrated"
+    },
+    {
+      "id": "67021fac8688dc6d6e6e75cb",
+      "timestamp": 1727936664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fb48688dc6d6e6e75da",
+      "timestamp": 1727621073,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618598688dc16162777fa",
+      "timestamp": 1728419767,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6706186c8688dc1616277815",
+      "timestamp": 1728274072,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce48688dc64473400e5",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c1ee88688dc27031e6a02",
+      "timestamp": 1728814835,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670c219a8688dc2702679223",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c23798688dc62f026f187",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469751,
+  "updatedat": 1728848766,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d67a8688dc5a22281bea"
+  },
+  "title": "Demo Request for JustCall",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6798688dc5a22281be9",
+      "timestamp": 1726469705,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d77e8688dc4a0b0a8d06",
+      "timestamp": 1726469960,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ecf00a8688dc73e54f35d0",
+      "timestamp": 1726679082,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8e98688dc4974300abe",
+      "timestamp": 1726980761,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8f28688dc4974300ad5",
+      "timestamp": 1726975295,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d8b8688dc7d22294962",
+      "timestamp": 1727236351,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4deca8688dc66b36a2ffd",
+      "timestamp": 1727322869,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6798688dc5bd601b711",
+      "timestamp": 1727499617,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a67b8688dc5bd601b71d",
+      "timestamp": 1727495743,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7828688dc3fcc1c31ca",
+      "timestamp": 1727499617,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7858688dc3fcc1c31d5",
+      "timestamp": 1727495743,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021fa38688dc6d6e6e75bc",
+      "timestamp": 1726537664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c17628688dc62f026f182",
+      "timestamp": 1728807169,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1726469754,
+  "updatedat": 1726469754,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d67c8688dc5a22281bf2"
+  },
+  "title": "Not Receiving Inbound Calls",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d67b8688dc5a22281bf1",
+      "timestamp": 1726469707,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7778688dc4a0b0a8cfd",
+      "timestamp": 1726469957,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7818688dc4a0b0a8d0c",
+      "timestamp": 1726469962,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7828688dc4a0b0a8d10",
+      "timestamp": 1726469964,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7858688dc4a0b0a8d19",
+      "timestamp": 1726469967,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cac8688dc4f4f7e2d73",
+      "timestamp": 1726553210,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cb98688dc4f4f7e2d8d",
+      "timestamp": 1726553219,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cc98688dc4f4f7e2da3",
+      "timestamp": 1726553230,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce58688dc4f4f7e2dd2",
+      "timestamp": 1726553248,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55ea8688dc2b6f12a25a",
+      "timestamp": 1726633403,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55f28688dc2b6f12a263",
+      "timestamp": 1726633408,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55f58688dc2b6f12a269",
+      "timestamp": 1726633409,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56048688dc2b6f12a285",
+      "timestamp": 1726633418,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56138688dc2b6f12a2a4",
+      "timestamp": 1726633430,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea57fc8688dc2b7536890d",
+      "timestamp": 1726633935,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58048688dc2b75368920",
+      "timestamp": 1726633943,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58088688dc2b75368929",
+      "timestamp": 1726633946,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58128688dc2b7536893f",
+      "timestamp": 1726633954,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58158688dc2b75368945",
+      "timestamp": 1726633957,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58238688dc2b75368970",
+      "timestamp": 1726633976,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ecf0018688dc73e54f35c0",
+      "timestamp": 1726703798,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ecf0048688dc73e54f35c7",
+      "timestamp": 1726723951,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0218688dc73e54f35eb",
+      "timestamp": 1726547030,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88e48688dc477116a32f",
+      "timestamp": 1726767903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88f08688dc477116a341",
+      "timestamp": 1724329576,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef89008688dc477116a372",
+      "timestamp": 1725418696,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8cf8688dc4974300a86",
+      "timestamp": 1726931562,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38da18688dc7d2229498a",
+      "timestamp": 1725418696,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deb88688dc66b36a2fe3",
+      "timestamp": 1727220122,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4decc8688dc66b36a3004",
+      "timestamp": 1727216126,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deed8688dc66b36a303d",
+      "timestamp": 1727184439,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4def78688dc66b36a304c",
+      "timestamp": 1727050096,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a66d8688dc5bd601b6f6",
+      "timestamp": 1726772458,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a6808688dc5bd601b727",
+      "timestamp": 1727439450,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7688688dc3fcc1c3195",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a78a8688dc3fcc1c31df",
+      "timestamp": 1727439450,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a78b8688dc3fcc1c31e5",
+      "timestamp": 1727441101,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac928688dc5bd8499f40",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac9d8688dc5bd8499f5c",
+      "timestamp": 1726772458,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad718688dc5bd8499fa3",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad7d8688dc5bd8499fbf",
+      "timestamp": 1726772458,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b7638688dc5bd601b741",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7d28688dc3fcf5bf1ca",
+      "timestamp": 1727449292,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f18688dc5d8b1f7aac",
+      "timestamp": 1727215990,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fa38688dc6d6e6e75bc",
+      "timestamp": 1726537664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469756,
+  "updatedat": 1726469756,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d6878688dc5a22281c13"
+  },
+  "title": "SMS Issues  Unable to Answer and Loading Problems",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6858688dc5a22281c12",
+      "timestamp": 1726469717,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7648688dc4a0b0a8cd7",
+      "timestamp": 1726469943,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d77f8688dc4a0b0a8d09",
+      "timestamp": 1726469961,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ca98688dc4f4f7e2d6d",
+      "timestamp": 1726553208,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cb78688dc4f4f7e2d8a",
+      "timestamp": 1726553218,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cd78688dc4f4f7e2db6",
+      "timestamp": 1726553237,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea57fa8688dc2b7536890a",
+      "timestamp": 1726633934,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6f88688dc175b7cafea",
+      "timestamp": 1726694909,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd6fb8688dc175b7cafee",
+      "timestamp": 1725934017,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd7018688dc175b7caff7",
+      "timestamp": 1726730505,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecefff8688dc73e54f35bd",
+      "timestamp": 1726694350,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88ed8688dc477116a33e",
+      "timestamp": 1726043469,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8cd8688dc4974300a83",
+      "timestamp": 1726933645,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8e28688dc4974300aaf",
+      "timestamp": 1726947153,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8eb8688dc4974300ac3",
+      "timestamp": 1726855899,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8f28688dc4974300ade",
+      "timestamp": 1726930434,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d988688dc7d2229497e",
+      "timestamp": 1727135824,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38da68688dc7d22294995",
+      "timestamp": 1726813449,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deb98688dc66b36a2fe6",
+      "timestamp": 1725591858,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dec98688dc66b36a2ffb",
+      "timestamp": 1727321894,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4dee18688dc66b36a3023",
+      "timestamp": 1727318422,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deff8688dc66b36a3052",
+      "timestamp": 1726529182,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f778688dc5dc04b29ce",
+      "timestamp": 1726254047,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f7f8688dc5dc04b29d8",
+      "timestamp": 1726334968,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f848688dc5dc04b29e1",
+      "timestamp": 1726668822,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f868688dc5dc04b29e4",
+      "timestamp": 1727406919,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a6758688dc5bd601b707",
+      "timestamp": 1727490164,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a76c8688dc3fcc1c31a2",
+      "timestamp": 1727363935,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a77f8688dc3fcc1c31c1",
+      "timestamp": 1727490164,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7918688dc3fcc1c31ee",
+      "timestamp": 1727383070,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7acad8688dc5bd8499f6b",
+      "timestamp": 1727490164,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f90cff8688dc5db736d0f3",
+      "timestamp": 1727575978,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916e08688dc5d8b1f7a96",
+      "timestamp": 1727461998,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916e88688dc5d8b1f7aa0",
+      "timestamp": 1727274838,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b738688dc2201548426",
+      "timestamp": 1727198671,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2b3b8688dc540f39b515",
+      "timestamp": 1728326492,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc18688dc64473400b3",
+      "timestamp": 1728326492,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce18688dc64473400de",
+      "timestamp": 1728583956,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469767,
+  "updatedat": 1726469767,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d6888688dc5a22281c18"
+  },
+  "title": "Porting Assistance and Documentation",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6878688dc5a22281c17",
+      "timestamp": 1726469719,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7698688dc4a0b0a8ce2",
+      "timestamp": 1726469947,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d76b8688dc4a0b0a8ce5",
+      "timestamp": 1726469948,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d7878688dc4a0b0a8d1f",
+      "timestamp": 1726469969,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e7d78d8688dc4a0b0a8d27",
+      "timestamp": 1726469973,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cba8688dc4f4f7e2d90",
+      "timestamp": 1726553220,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cc68688dc4f4f7e2d9e",
+      "timestamp": 1726553227,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cd48688dc4f4f7e2dab",
+      "timestamp": 1726553233,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cd88688dc4f4f7e2db9",
+      "timestamp": 1726553239,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce28688dc4f4f7e2dcc",
+      "timestamp": 1726553245,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56058688dc2b6f12a288",
+      "timestamp": 1726633419,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56098688dc2b6f12a292",
+      "timestamp": 1726633422,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea560a8688dc2b6f12a295",
+      "timestamp": 1726633423,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56108688dc2b6f12a29b",
+      "timestamp": 1726633427,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56148688dc2b6f12a2aa",
+      "timestamp": 1726633436,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56188688dc2b6f12a2b3",
+      "timestamp": 1726633439,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58008688dc2b75368918",
+      "timestamp": 1726633939,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58218688dc2b75368964",
+      "timestamp": 1726633966,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6e88688dc175b7cafd0",
+      "timestamp": 1726655425,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd7038688dc175b7caffb",
+      "timestamp": 1725343925,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd7178688dc175b7cb029",
+      "timestamp": 1726552820,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66eceff58688dc73e54f35a7",
+      "timestamp": 1726590563,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ecf0128688dc73e54f35dc",
+      "timestamp": 1726593355,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8d78688dc4974300a98",
+      "timestamp": 1726925759,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8ee8688dc4974300acb",
+      "timestamp": 1726960129,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d8d8688dc7d22294965",
+      "timestamp": 1726032314,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38db28688dc7d2229499f",
+      "timestamp": 1727235767,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38db68688dc7d222949aa",
+      "timestamp": 1726723951,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38dbb8688dc7d222949b6",
+      "timestamp": 1727230953,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4dec18688dc66b36a2ff0",
+      "timestamp": 1726774895,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4decd8688dc66b36a3007",
+      "timestamp": 1727314168,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deef8688dc66b36a3040",
+      "timestamp": 1727186773,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4def68688dc66b36a3049",
+      "timestamp": 1727138230,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4df028688dc66b36a3055",
+      "timestamp": 1726552820,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f62f708688dc5dc04b29c5",
+      "timestamp": 1727205428,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f62f928688dc5dc04b29fb",
+      "timestamp": 1727336725,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f968688dc5dc04b2a06",
+      "timestamp": 1727138230,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a65d8688dc5bd601b6ce",
+      "timestamp": 1726003807,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7a6658688dc5bd601b6dd",
+      "timestamp": 1727429089,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a66d8688dc5bd601b6f1",
+      "timestamp": 1727472289,
+      "integrationid": 9,
+      "sentiment": "Super Happy"
+    },
+    {
+      "id": "66f7a66f8688dc5bd601b6fb",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6778688dc5bd601b70e",
+      "timestamp": 1727462544,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7628688dc3fcc1c3188",
+      "timestamp": 1726003807,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a76a8688dc3fcc1c3198",
+      "timestamp": 1727429089,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7728688dc3fcc1c31ad",
+      "timestamp": 1727472289,
+      "integrationid": 9,
+      "sentiment": "Super Happy"
+    },
+    {
+      "id": "66f7a7728688dc3fcc1c31b2",
+      "timestamp": 1726772458,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7768688dc3fcc1c31b7",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7a7818688dc3fcc1c31c7",
+      "timestamp": 1727462544,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac8d8688dc5bd8499f34",
+      "timestamp": 1726003807,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac938688dc5bd8499f43",
+      "timestamp": 1727429089,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ac9c8688dc5bd8499f57",
+      "timestamp": 1727472289,
+      "integrationid": 9,
+      "sentiment": "Super Happy"
+    },
+    {
+      "id": "66f7aca08688dc5bd8499f61",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7ad6c8688dc5bd8499f97",
+      "timestamp": 1726003807,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad748688dc5bd8499fa6",
+      "timestamp": 1727429089,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad7c8688dc5bd8499fba",
+      "timestamp": 1727472289,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad828688dc5bd8499fc4",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Happy"
+    },
+    {
+      "id": "66f7e7bf8688dc3fcf5bf1c4",
+      "timestamp": 1726515181,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d78688dc5d8b1f7a83",
+      "timestamp": 1725550487,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ec8688dc5d8b1f7aa4",
+      "timestamp": 1726689984,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f917038688dc5d8b1f7ada",
+      "timestamp": 1726515181,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b878688dc220154845b",
+      "timestamp": 1727668648,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618808688dc1616277836",
+      "timestamp": 1728143880,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469768,
+  "updatedat": 1726469768,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d68b8688dc5a22281c20"
+  },
+  "title": "Change of Subscription Plan",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d6898688dc5a22281c1f",
+      "timestamp": 1726469722,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cbc8688dc4f4f7e2d93",
+      "timestamp": 1726553222,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce68688dc4f4f7e2dd6",
+      "timestamp": 1726553250,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55e88688dc2b6f12a251",
+      "timestamp": 1726633399,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58048688dc2b7536891e",
+      "timestamp": 1726633942,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58078688dc2b75368926",
+      "timestamp": 1726633945,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea580d8688dc2b75368933",
+      "timestamp": 1726633949,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66f62f718688dc5dc04b29c8",
+      "timestamp": 1727406559,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6698688dc5bd601b6eb",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a67c8688dc5bd601b721",
+      "timestamp": 1727438113,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a76e8688dc3fcc1c31a6",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7868688dc3fcc1c31d9",
+      "timestamp": 1727438113,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b75e8688dc5bd8499fe4",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7b7608688dc5bd8499fe9",
+      "timestamp": 1727438113,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b7658688dc5bd601b74c",
+      "timestamp": 1727384167,
+      "integrationid": 9,
+      "sentiment": ""
+    },
+    {
+      "id": "66f7e7bd8688dc3fcf5bf1c1",
+      "timestamp": 1727201383,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b7b8688dc2201548435",
+      "timestamp": 1727675564,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ec38688dc095e3b2eaf",
+      "timestamp": 1727763309,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670625138688dc7f98002af3",
+      "timestamp": 1728390341,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2ce48688dc64473400e5",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469771,
+  "updatedat": 1728848403,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d68f8688dc5a22281c33"
+  },
+  "title": "Account Cancellation and Refund Request",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d68e8688dc5a22281c32",
+      "timestamp": 1726469727,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cab8688dc4f4f7e2d70",
+      "timestamp": 1726553209,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91cdc8688dc4f4f7e2dc0",
+      "timestamp": 1726553241,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66e91ce18688dc4f4f7e2dca",
+      "timestamp": 1726553245,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55e58688dc2b6f12a24a",
+      "timestamp": 1726633397,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55e98688dc2b6f12a254",
+      "timestamp": 1726633400,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55e98688dc2b6f12a256",
+      "timestamp": 1726633400,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea560b8688dc2b6f12a298",
+      "timestamp": 1726633426,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56118688dc2b6f12a29e",
+      "timestamp": 1726633428,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56178688dc2b6f12a2b1",
+      "timestamp": 1726633438,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea57fd8688dc2b75368910",
+      "timestamp": 1726633936,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea57ff8688dc2b75368913",
+      "timestamp": 1726633937,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea580f8688dc2b75368937",
+      "timestamp": 1726633951,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58108688dc2b75368939",
+      "timestamp": 1726633951,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd70d8688dc175b7cb010",
+      "timestamp": 1726639421,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ecf01e8688dc73e54f35e5",
+      "timestamp": 1726504221,
+      "integrationid": 9,
+      "sentiment": "Super Angry"
+    },
+    {
+      "id": "66ecf0238688dc73e54f35ee",
+      "timestamp": 1726136720,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8d28688dc4974300a8c",
+      "timestamp": 1726964590,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8d38688dc4974300a8f",
+      "timestamp": 1726471539,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8dc8688dc4974300aa1",
+      "timestamp": 1726937375,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f38d888688dc7d2229495f",
+      "timestamp": 1725563806,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d958688dc7d22294978",
+      "timestamp": 1727137173,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38db38688dc7d222949a2",
+      "timestamp": 1726590115,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f798688dc5dc04b29d1",
+      "timestamp": 1727301023,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f948688dc5dc04b29ff",
+      "timestamp": 1727284419,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7938688dc3fcc1c31f1",
+      "timestamp": 1727384167,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac8a8688dc5bd8499f29",
+      "timestamp": 1727487058,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad698688dc5bd8499f8b",
+      "timestamp": 1727487058,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7b7688688dc5bd849a00b",
+      "timestamp": 1726845965,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f916d38688dc5d8b1f7a7b",
+      "timestamp": 1727460278,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ee8688dc5d8b1f7aa8",
+      "timestamp": 1727347208,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b638688dc2201548419",
+      "timestamp": 1726787623,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1eda8688dc095e3b2eec",
+      "timestamp": 1727068225,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c219a8688dc2702679223",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c23798688dc62f026f187",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726469775,
+  "updatedat": 1728848766,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e7d77e8688dc4a0b0a8d03"
+  },
+  "title": "Technical Issue with Contact Syncing",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e7d77a8688dc4a0b0a8d02",
+      "timestamp": 1726469959,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55f78688dc2b6f12a26c",
+      "timestamp": 1726633410,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56068688dc2b6f12a28b",
+      "timestamp": 1726633420,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58198688dc2b75368950",
+      "timestamp": 1726633960,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea581c8688dc2b75368957",
+      "timestamp": 1726633962,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6f68688dc175b7cafe7",
+      "timestamp": 1726657589,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd7088688dc175b7caffe",
+      "timestamp": 1726460281,
+      "integrationid": 9,
+      "sentiment": "Super Angry"
+    },
+    {
+      "id": "66ecefec8688dc73e54f3597",
+      "timestamp": 1726798670,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66eceff18688dc73e54f35a1",
+      "timestamp": 1726468431,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66eceff78688dc73e54f35aa",
+      "timestamp": 1726793942,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66eceffb8688dc73e54f35b3",
+      "timestamp": 1726722283,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ecf0088688dc73e54f35cd",
+      "timestamp": 1726617623,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ecf00b8688dc73e54f35d3",
+      "timestamp": 1726696982,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0138688dc73e54f35de",
+      "timestamp": 1726615918,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0288688dc73e54f35f4",
+      "timestamp": 1726460281,
+      "integrationid": 9,
+      "sentiment": "Super Angry"
+    },
+    {
+      "id": "66ef88e28688dc477116a32b",
+      "timestamp": 1726595894,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8d08688dc4974300a89",
+      "timestamp": 1726861911,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8e58688dc4974300ab8",
+      "timestamp": 1726933763,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8fb8688dc4974300af3",
+      "timestamp": 1724848894,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38db88688dc7d222949ad",
+      "timestamp": 1727167557,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4dec88688dc66b36a2ff9",
+      "timestamp": 1727220570,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4decf8688dc66b36a300b",
+      "timestamp": 1727293156,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4ded18688dc66b36a300e",
+      "timestamp": 1727314068,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4ded98688dc66b36a3018",
+      "timestamp": 1727236456,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f4deea8688dc66b36a3035",
+      "timestamp": 1727294906,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f4def18688dc66b36a3043",
+      "timestamp": 1727131581,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f638688dc5dc04b29b6",
+      "timestamp": 1727193607,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f688688dc5dc04b29b9",
+      "timestamp": 1727222936,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f6a8688dc5dc04b29bc",
+      "timestamp": 1727409454,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f6b8688dc5dc04b29bf",
+      "timestamp": 1726467461,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f758688dc5dc04b29cb",
+      "timestamp": 1726513007,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f62f818688dc5dc04b29de",
+      "timestamp": 1727405418,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a6638688dc5bd601b6da",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a67e8688dc5bd601b724",
+      "timestamp": 1727439023,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a7808688dc3fcc1c31c5",
+      "timestamp": 1727490815,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7a7888688dc3fcc1c31dc",
+      "timestamp": 1727439023,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7a78d8688dc3fcc1c31e8",
+      "timestamp": 1727445227,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ac8b8688dc5bd8499f2d",
+      "timestamp": 1727491328,
+      "integrationid": 9,
+      "sentiment": ""
+    },
+    {
+      "id": "66f7ac968688dc5bd8499f4d",
+      "timestamp": 1727363935,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad648688dc5bd8499f74",
+      "timestamp": 1727505222,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad6a8688dc5bd8499f8f",
+      "timestamp": 1727491328,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7ad768688dc5bd8499fb0",
+      "timestamp": 1727363935,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7ad7b8688dc5bd8499fb8",
+      "timestamp": 1727500212,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7b7578688dc5bd8499fd8",
+      "timestamp": 1727236456,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b7598688dc5bd8499fdb",
+      "timestamp": 1727373954,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b75c8688dc5bd8499fe1",
+      "timestamp": 1727363935,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7b7628688dc5bd8499fec",
+      "timestamp": 1727439023,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7bb8688dc3fcf5bf1be",
+      "timestamp": 1727392874,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7d78688dc3fcf5bf1d0",
+      "timestamp": 1727021083,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f7e7de8688dc3fcf5bf1dc",
+      "timestamp": 1727236456,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f913df8688dc5d823a0a24",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f9154b8688dc5db63b3cb3",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916048688dc5db63b3cb9",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ce8688dc5d8b1f7a74",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916d98688dc5d8b1f7a89",
+      "timestamp": 1727457569,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916e38688dc5d8b1f7a9c",
+      "timestamp": 1727379751,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f18688dc5d8b1f7aac",
+      "timestamp": 1727215990,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f917038688dc5d8b1f7ada",
+      "timestamp": 1726515181,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b778688dc220154842e",
+      "timestamp": 1725399841,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1eb58688dc095e3b2e96",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecc8688dc095e3b2ebc",
+      "timestamp": 1727365821,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc68688dc64473400bc",
+      "timestamp": 1728670833,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cd28688dc64473400c8",
+      "timestamp": 1728644727,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726470014,
+  "updatedat": 1726470014,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e91cb78688dc4f4f7e2d87"
+  },
+  "title": "Integration Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e91cb68688dc4f4f7e2d86",
+      "timestamp": 1726553217,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55fa8688dc2b6f12a273",
+      "timestamp": 1726633413,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55ff8688dc2b6f12a27b",
+      "timestamp": 1726633415,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea56128688dc2b6f12a2a1",
+      "timestamp": 1726633429,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea58018688dc2b7536891b",
+      "timestamp": 1726633941,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea580b8688dc2b75368930",
+      "timestamp": 1726633948,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea581b8688dc2b75368954",
+      "timestamp": 1726633961,
+      "sentiment": "Neutral",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea581d8688dc2b75368959",
+      "timestamp": 1726633963,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ebd6ea8688dc175b7cafd4",
+      "timestamp": 1726435384,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd6eb8688dc175b7cafd7",
+      "timestamp": 1726706286,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ebd70b8688dc175b7cb002",
+      "timestamp": 1726591722,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf0058688dc73e54f35ca",
+      "timestamp": 1726585384,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ecf00d8688dc73e54f35d6",
+      "timestamp": 1726507022,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88f38688dc477116a345",
+      "timestamp": 1726777889,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66ef88f48688dc477116a347",
+      "timestamp": 1723991902,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88f78688dc477116a34a",
+      "timestamp": 1726883388,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66ef88fa8688dc477116a350",
+      "timestamp": 1726870647,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8d48688dc4974300a92",
+      "timestamp": 1726883388,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8d98688dc4974300a9b",
+      "timestamp": 1726776738,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8db8688dc4974300a9e",
+      "timestamp": 1726955522,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8e08688dc4974300aac",
+      "timestamp": 1726954938,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8ef8688dc4974300ace",
+      "timestamp": 1726940180,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66efb8f48688dc4974300ae2",
+      "timestamp": 1726975971,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66efb8f98688dc4974300aed",
+      "timestamp": 1726861301,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38d9b8688dc7d22294984",
+      "timestamp": 1727236456,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f913df8688dc5d823a0a24",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f9154b8688dc5db63b3cb3",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916048688dc5db63b3cb9",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ce8688dc5d8b1f7a74",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b668688dc220154841d",
+      "timestamp": 1723842574,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b778688dc220154842e",
+      "timestamp": 1725399841,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b808688dc2201548442",
+      "timestamp": 1727674310,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1eb58688dc095e3b2e96",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ec58688dc095e3b2eb3",
+      "timestamp": 1727135436,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecc8688dc095e3b2ebc",
+      "timestamp": 1727365821,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecf8688dc095e3b2ebf",
+      "timestamp": 1727021083,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021fa78688dc6d6e6e75bf",
+      "timestamp": 1728011704,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021fb18688dc6d6e6e75d2",
+      "timestamp": 1727021083,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618738688dc1616277822",
+      "timestamp": 1728446252,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1b358688dc549d0238af",
+      "timestamp": 1728670833,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b428688dc549d0238c7",
+      "timestamp": 1728644727,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c3d8688dc64454eaf6c",
+      "timestamp": 1728325698,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1c3f8688dc64454eaf72",
+      "timestamp": 1728644727,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc68688dc64473400bc",
+      "timestamp": 1728670833,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ccf8688dc64473400c5",
+      "timestamp": 1728325698,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2cd28688dc64473400c8",
+      "timestamp": 1728644727,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1726553271,
+  "updatedat": 1726553271,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66e91cc58688dc4f4f7e2d99"
+  },
+  "title": "CRM Call Logging Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66e91cc38688dc4f4f7e2d98",
+      "timestamp": 1726553225,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ea55f98688dc2b6f12a270",
+      "timestamp": 1726633412,
+      "sentiment": "Frustrated",
+      "integrationid": 9
+    },
+    {
+      "id": "66ecf02a8688dc73e54f35f8",
+      "timestamp": 1726238498,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f38dbc8688dc7d222949b8",
+      "timestamp": 1727220570,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f9154b8688dc5db63b3cb3",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916048688dc5db63b3cb9",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916ce8688dc5d8b1f7a74",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ec28688dc095e3b2eac",
+      "timestamp": 1727747654,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fa78688dc6d6e6e75bf",
+      "timestamp": 1728011704,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1b3f8688dc549d0238c1",
+      "timestamp": 1728325698,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1c338688dc64454eaf5a",
+      "timestamp": 1728670833,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc68688dc64473400bc",
+      "timestamp": 1728670833,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ccf8688dc64473400c5",
+      "timestamp": 1728325698,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1726553285,
+  "updatedat": 1726553285,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66efb8ed8688dc4974300ac7"
+  },
+  "title": "Duplicate Conversation Notification",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66efb8ed8688dc4974300ac6",
+      "timestamp": 1726978763,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f916de8688dc5d8b1f7a92",
+      "timestamp": 1727460924,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b738688dc2201548426",
+      "timestamp": 1727198671,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ebf8688dc095e3b2ea9",
+      "timestamp": 1727685161,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1726986477,
+  "updatedat": 1726986477,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f4dec18688dc66b36a2fed"
+  },
+  "title": "Getting a New Phone Number on JustCall",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f4dec18688dc66b36a2fec",
+      "timestamp": 1727220279,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7e7e48688dc3fcf5bf1f5",
+      "timestamp": 1727335951,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f917158688dc5d8b1f7ae1",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b828688dc220154844a",
+      "timestamp": 1727642967,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ebd8688dc095e3b2ea4",
+      "timestamp": 1727923291,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1edb8688dc095e3b2ef2",
+      "timestamp": 1727767134,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f9e8688dc6d6e6e75b3",
+      "timestamp": 1727956005,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fa38688dc6d6e6e75bc",
+      "timestamp": 1726537664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fac8688dc6d6e6e75cb",
+      "timestamp": 1727936664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6706140b8688dc7f94392264",
+      "timestamp": 1728274072,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b478688dc549d0238d4",
+      "timestamp": 1728632567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cd78688dc64473400d0",
+      "timestamp": 1728632567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727323841,
+  "updatedat": 1727323841,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f62f918688dc5dc04b29f2"
+  },
+  "title": "Phone Number Request",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f62f918688dc5dc04b29f1",
+      "timestamp": 1727325286,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f7e7b78688dc3fcf5bf1b8",
+      "timestamp": 1726064808,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66f916d38688dc5d8b1f7a7b",
+      "timestamp": 1727460278,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66f916f98688dc5d8b1f7abd",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ebd8688dc095e3b2ea4",
+      "timestamp": 1727923291,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ebf8688dc095e3b2ea9",
+      "timestamp": 1727685161,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ec98688dc095e3b2eb8",
+      "timestamp": 1727322260,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f9e8688dc6d6e6e75b3",
+      "timestamp": 1727956005,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fa38688dc6d6e6e75bc",
+      "timestamp": 1726537664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fac8688dc6d6e6e75cb",
+      "timestamp": 1727936664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6706185c8688dc1616277800",
+      "timestamp": 1728024406,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1b568688dc549d0238f3",
+      "timestamp": 1728615732,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1c468688dc64454eaf7f",
+      "timestamp": 1728632567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c558688dc64454eaf9d",
+      "timestamp": 1728615732,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2ce38688dc64473400e1",
+      "timestamp": 1728615732,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a2ce78688dc64473400e8",
+      "timestamp": 1728529223,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727410065,
+  "updatedat": 1727410065,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f90d038688dc5db736d0f4"
+  },
+  "title": "Issue with Email Notifications for Incoming SMS",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f90cff8688dc5db736d0f3",
+      "timestamp": 1727575978,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1eb58688dc095e3b2e96",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727597827,
+  "updatedat": 1727597827,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f913e18688dc5d823a0a25"
+  },
+  "title": "Conflicting CRM Integrations",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f913df8688dc5d823a0a24",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1eb58688dc095e3b2e96",
+      "timestamp": 1727379917,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cd28688dc64473400c8",
+      "timestamp": 1728644727,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727599585,
+  "updatedat": 1727599585,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916d68688dc5d8b1f7a7c"
+  },
+  "title": "Account Registration Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916d38688dc5d8b1f7a7b",
+      "timestamp": 1727460278,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670901228688dc783504c9c9",
+      "timestamp": 1728641286,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1b4c8688dc549d0238e1",
+      "timestamp": 1728639922,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c4b8688dc64454eaf8b",
+      "timestamp": 1728639922,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a25728688dc64454eafc1",
+      "timestamp": 1728633898,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc28688dc64473400b6",
+      "timestamp": 1728633898,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cdd8688dc64473400d8",
+      "timestamp": 1728639922,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600342,
+  "updatedat": 1727600342,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916de8688dc5d8b1f7a8e"
+  },
+  "title": "Usage Minutes Calculation Discrepancy",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916dc8688dc5d8b1f7a8d",
+      "timestamp": 1727459567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f958688dc6d6e6e759f",
+      "timestamp": 1727965478,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021fa38688dc6d6e6e75bc",
+      "timestamp": 1726537664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ce48688dc64473400e5",
+      "timestamp": 1728524903,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600350,
+  "updatedat": 1727600350,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916de8688dc5d8b1f7a8f"
+  },
+  "title": "Request to Speak with Account Manager",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916dc8688dc5d8b1f7a8d",
+      "timestamp": 1727459567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b608688dc2201548415",
+      "timestamp": 1726760801,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b668688dc220154841d",
+      "timestamp": 1723842574,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1eb88688dc095e3b2e9a",
+      "timestamp": 1727757609,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c219a8688dc2702679223",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c23798688dc62f026f187",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600350,
+  "updatedat": 1728848766,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916e08688dc5d8b1f7a93"
+  },
+  "title": "10DLC Registration Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916de8688dc5d8b1f7a92",
+      "timestamp": 1727460924,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b608688dc2201548415",
+      "timestamp": 1726760801,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecc8688dc095e3b2ebc",
+      "timestamp": 1727365821,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f928688dc6d6e6e759c",
+      "timestamp": 1727185154,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f958688dc6d6e6e759f",
+      "timestamp": 1727965478,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1b318688dc549d0238a9",
+      "timestamp": 1728668960,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c308688dc64454eaf54",
+      "timestamp": 1728668960,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc38688dc64473400b9",
+      "timestamp": 1728668960,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1727600352,
+  "updatedat": 1727600352,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916e88688dc5d8b1f7a9d"
+  },
+  "title": "Sales Dialer Campaign Configuration Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916e38688dc5d8b1f7a9c",
+      "timestamp": 1727379751,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b4f8688dc549d0238e7",
+      "timestamp": 1728571919,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c4f8688dc64454eaf91",
+      "timestamp": 1728571919,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cdf8688dc64473400db",
+      "timestamp": 1728571919,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600360,
+  "updatedat": 1727600360,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f18688dc5d8b1f7aa9"
+  },
+  "title": "Password Reset Problems",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916ee8688dc5d8b1f7aa8",
+      "timestamp": 1727347208,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600369,
+  "updatedat": 1728848403,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f48688dc5d8b1f7aad"
+  },
+  "title": "Call Transfers Dropping Issues",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f18688dc5d8b1f7aac",
+      "timestamp": 1727215990,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600372,
+  "updatedat": 1727600372,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f48688dc5d8b1f7aae"
+  },
+  "title": "Intelligent Call Routing Glitch",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f18688dc5d8b1f7aac",
+      "timestamp": 1727215990,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600372,
+  "updatedat": 1727600372,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f48688dc5d8b1f7aaf"
+  },
+  "title": "Hold Function Error on MacOS Application",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f18688dc5d8b1f7aac",
+      "timestamp": 1727215990,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600372,
+  "updatedat": 1727600372,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f68688dc5d8b1f7ab4"
+  },
+  "title": "Technical Issue with Audio Features",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f58688dc5d8b1f7ab3",
+      "timestamp": 1727080416,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b828688dc220154844a",
+      "timestamp": 1727642967,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ccb8688dc64473400c2",
+      "timestamp": 1728383319,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600374,
+  "updatedat": 1727600374,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f88688dc5d8b1f7ab8"
+  },
+  "title": "Document Submission for Account Verification",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f68688dc5d8b1f7ab7",
+      "timestamp": 1725478183,
+      "integrationid": 9,
+      "sentiment": "    Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ebf8688dc095e3b2ea9",
+      "timestamp": 1727685161,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ec98688dc095e3b2eb8",
+      "timestamp": 1727322260,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1edb8688dc095e3b2ef2",
+      "timestamp": 1727767134,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f9e8688dc6d6e6e75b3",
+      "timestamp": 1727956005,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fac8688dc6d6e6e75cb",
+      "timestamp": 1727936664,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fb08688dc6d6e6e75ce",
+      "timestamp": 1727394419,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "670a1c468688dc64454eaf7f",
+      "timestamp": 1728632567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cd78688dc64473400d0",
+      "timestamp": 1728632567,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600376,
+  "updatedat": 1727600376,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916f88688dc5d8b1f7ab9"
+  },
+  "title": "Business Verification with Upstream Provider",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f68688dc5d8b1f7ab7",
+      "timestamp": 1725478183,
+      "integrationid": 9,
+      "sentiment": "    Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ec98688dc095e3b2eb8",
+      "timestamp": 1727322260,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fe1ecc8688dc095e3b2ebc",
+      "timestamp": 1727365821,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f928688dc6d6e6e759c",
+      "timestamp": 1727185154,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc98688dc64473400bf",
+      "timestamp": 1728542296,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600376,
+  "updatedat": 1727600376,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f916fd8688dc5d8b1f7abe"
+  },
+  "title": "Caller ID Registration",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f916f98688dc5d8b1f7abd",
+      "timestamp": 1727363556,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fe1ebf8688dc095e3b2ea9",
+      "timestamp": 1727685161,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021f928688dc6d6e6e759c",
+      "timestamp": 1727185154,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f988688dc6d6e6e75a3",
+      "timestamp": 1726066915,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021f9e8688dc6d6e6e75b3",
+      "timestamp": 1727956005,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fab8688dc6d6e6e75c6",
+      "timestamp": 1727925023,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fb48688dc6d6e6e75da",
+      "timestamp": 1727621073,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600381,
+  "updatedat": 1727600381,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f917158688dc5d8b1f7adb"
+  },
+  "title": "SMS Compliance Issues  10DLC Registration",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f917038688dc5d8b1f7ada",
+      "timestamp": 1726515181,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b608688dc2201548415",
+      "timestamp": 1726760801,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b5f8688dc549d02390e",
+      "timestamp": 1727725790,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2cc38688dc64473400b9",
+      "timestamp": 1728668960,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "datetime": 1727600405,
+  "updatedat": 1727600405,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f917158688dc5d8b1f7add"
+  },
+  "title": "Account Activation for Subscription",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f917038688dc5d8b1f7ada",
+      "timestamp": 1726515181,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600405,
+  "updatedat": 1727600405,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f917198688dc5d8b1f7ae2"
+  },
+  "title": "Technical Issue with Call Connectivity",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f917158688dc5d8b1f7ae1",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b668688dc220154841d",
+      "timestamp": 1723842574,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b738688dc2201548426",
+      "timestamp": 1727198671,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "66fb7b828688dc220154844a",
+      "timestamp": 1727642967,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b878688dc220154845b",
+      "timestamp": 1727668648,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021f988688dc6d6e6e75a3",
+      "timestamp": 1726066915,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    },
+    {
+      "id": "67021fa28688dc6d6e6e75b8",
+      "timestamp": 1728051401,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fa98688dc6d6e6e75c3",
+      "timestamp": 1727887210,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "67021fb48688dc6d6e6e75da",
+      "timestamp": 1727621073,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618788688dc1616277828",
+      "timestamp": 1728348218,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6706187b8688dc161627782e",
+      "timestamp": 1728072988,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670618858688dc1616277846",
+      "timestamp": 1728431021,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6708ff6e8688dc7818299861",
+      "timestamp": 1728632395,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "6709030a8688dc7e024b818b",
+      "timestamp": 1728632395,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1b3a8688dc549d0238bb",
+      "timestamp": 1728383319,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a1c3a8688dc64454eaf66",
+      "timestamp": 1728383319,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670a2ccb8688dc64473400c2",
+      "timestamp": 1728383319,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600409,
+  "updatedat": 1727600409,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66f917198688dc5d8b1f7ae3"
+  },
+  "title": "Technical Issue with Removing Team Members",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66f917158688dc5d8b1f7ae1",
+      "timestamp": 1727447488,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "66fb7b6a8688dc2201548421",
+      "timestamp": 1724071639,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c220e8688dc0c87217212",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    },
+    {
+      "id": "670c23798688dc62f026f187",
+      "timestamp": 1728810729,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727600409,
+  "updatedat": 1728848766,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "66fe1ec98688dc095e3b2eb5"
+  },
+  "title": "Custom CRM VOIP Integration",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "66fe1ec58688dc095e3b2eb3",
+      "timestamp": 1727135436,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1727930057,
+  "updatedat": 1727930057,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "67021f9e8688dc6d6e6e75ae"
+  },
+  "title": "Trial Extension Request",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "67021f9c8688dc6d6e6e75ad",
+      "timestamp": 1728067984,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "datetime": 1728192414,
+  "updatedat": 1728192414,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "670625178688dc7f98002af4"
+  },
+  "title": "Adding Additional User for Increased Minutes",
+  "type": "subtopic",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "670625138688dc7f98002af3",
+      "timestamp": 1728390341,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "parentid": "66e7d68b8688dc5a22281c20",
+  "datetime": 1728455959,
+  "updatedat": 1728455959,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "670625178688dc7f98002af5"
+  },
+  "title": "Auto Topup and Additional Calling Credits",
+  "type": "subtopic",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "670625138688dc7f98002af3",
+      "timestamp": 1728390341,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "parentid": "66e7d68b8688dc5a22281c20",
+  "datetime": 1728455959,
+  "updatedat": 1728455959,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "670625178688dc7f98002af6"
+  },
+  "title": "Prorated Charges Explanation",
+  "type": "subtopic",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "670625138688dc7f98002af3",
+      "timestamp": 1728390341,
+      "integrationid": 9,
+      "sentiment": "Neutral"
+    }
+  ],
+  "parentid": "66e7d68b8688dc5a22281c20",
+  "datetime": 1728455959,
+  "updatedat": 1728455959,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "6709030d8688dc7e024b818c"
+  },
+  "title": "Determining Call Disconnection Source",
+  "type": "subtopic",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "6709030a8688dc7e024b818b",
+      "timestamp": 1728632395,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "parentid": "66f917198688dc5d8b1f7ae2",
+  "datetime": 1728643853,
+  "updatedat": 1728643853,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "6709030d8688dc7e024b818e"
+  },
+  "title": "Issue with Call Ringing in Recordings",
+  "type": "subtopic",
+  "userid": 149,
+  "isapproved": true,
+  "conversations": [
+    {
+      "id": "6709030a8688dc7e024b818b",
+      "timestamp": 1728632395,
+      "integrationid": 9,
+      "sentiment": "Frustrated"
+    }
+  ],
+  "parentid": "66f917198688dc5d8b1f7ae2",
+  "datetime": 1728643853,
+  "updatedat": 1728643853,
+  "status": 1
+}]
